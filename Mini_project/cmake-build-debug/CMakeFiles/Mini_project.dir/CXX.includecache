@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/solari/solari/Faculty/mentor task/Mini_project/Node.h
+
+/media/solari/solari/Faculty/mentor task/Mini_project/Rectangle.h
+Node.h
+/media/solari/solari/Faculty/mentor task/Mini_project/Node.h
+
+/media/solari/solari/Faculty/mentor task/Mini_project/Simulator.cpp
+Simulator.h
+/media/solari/solari/Faculty/mentor task/Mini_project/Simulator.h
+iostream
+-
+fstream
+-
+
+/media/solari/solari/Faculty/mentor task/Mini_project/Simulator.h
+Rectangle.h
+/media/solari/solari/Faculty/mentor task/Mini_project/Rectangle.h
+vector
+-
+string
+-
+

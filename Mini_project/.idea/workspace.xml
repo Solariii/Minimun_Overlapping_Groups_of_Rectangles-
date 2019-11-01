@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Mini_project" targetName="Mini_project" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bb18178e-6937-4caf-bb9c-3c18678c7464" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1SYild8z9Vwr16624veYa9URfpq" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/CLionProjects/hack" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="dynamic.analysis.tools.profiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Mini_project" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Mini_project" TARGET_NAME="Mini_project" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Mini_project" RUN_TARGET_NAME="Mini_project">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb18178e-6937-4caf-bb9c-3c18678c7464" name="Default Changelist" comment="" />
+      <created>1571747081864</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571747081864</updated>
+      <workItem from="1571747085277" duration="13483000" />
+      <workItem from="1571832575166" duration="19000" />
+      <workItem from="1572349734474" duration="17361000" />
+      <workItem from="1572371083314" duration="36000" />
+      <workItem from="1572371371883" duration="21000" />
+      <workItem from="1572371576291" duration="6000" />
+      <workItem from="1572389119056" duration="1773000" />
+      <workItem from="1572391978088" duration="564000" />
+      <workItem from="1572397062002" duration="138000" />
+      <workItem from="1572397267728" duration="31000" />
+      <workItem from="1572398274934" duration="1044000" />
+      <workItem from="1572433527994" duration="10800000" />
+      <workItem from="1572473091094" duration="33000" />
+      <workItem from="1572476445280" duration="8552000" />
+      <workItem from="1572519571522" duration="30000" />
+      <workItem from="1572522388937" duration="467000" />
+      <workItem from="1572524631071" duration="684000" />
+      <workItem from="1572563991413" duration="4579000" />
+      <workItem from="1572568777583" duration="507000" />
+      <workItem from="1572573203669" duration="245000" />
+      <workItem from="1572607823463" duration="9153000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>14</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Mini_project.dir/main.cpp.o CMakeFiles/Mini_project.dir/Node.cpp.o CMakeFiles/Mini_project.dir/Rectangle.cpp.o CMakeFiles/Mini_project.dir/Simulator.cpp.o  -o Mini_project 

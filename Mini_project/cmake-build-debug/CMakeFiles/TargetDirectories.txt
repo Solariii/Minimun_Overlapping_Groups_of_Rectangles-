@@ -1,0 +1,3 @@
+/media/solari/solari/Faculty/mentor task/Mini_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/solari/solari/Faculty/mentor task/Mini_project/cmake-build-debug/CMakeFiles/Mini_project.dir
+/media/solari/solari/Faculty/mentor task/Mini_project/cmake-build-debug/CMakeFiles/edit_cache.dir
